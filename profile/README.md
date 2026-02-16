@@ -22,7 +22,7 @@ We believe that code can be a form of worship when it serves the community. Our 
 
 ## 🤝 Contribute
 We welcome Muslim developers, designers, and translators to join us.
-* 📬 **Contact:** [sadaqahcode@gmail.com]
+* 📬 **Contact:** [sadaqahcode@proton.me]
 * 🌐 **Main Site:** [flagodna.com](https://flagodna.com)
 
 *"When a human being dies, his work comes to an end, except for three things: ongoing charity (Sadaqah Jariyah)..."* — **Prophet Muhammad (ﷺ)**
